@@ -1,0 +1,22 @@
+{
+  "name": "mongo-connect",
+  "version": "0.0.1",
+  "description": "It's to connect and manage mongodb easier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sevmezabdullah/mongo-connect.git"
+  },
+  "author": "Abdullah Sevmez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sevmezabdullah/mongo-connect/issues"
+  },
+  "homepage": "https://github.com/sevmezabdullah/mongo-connect#readme",
+  "dependencies": {
+    "mongoose": "^6.8.3"
+  }
+}
